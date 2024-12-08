@@ -87,4 +87,3 @@ Run the following command to install required libraries:
 - **Yash Raythatha**
 - **Parin Patel**
 - **Yash Nayi**
-```
